@@ -9,7 +9,7 @@ body{
 header{
 	height: 80vh;
 	background-color: lightsalmon;
-	background-image: url(https://ArtQuinones.github.io/comingout/Cover.gif);
+	background-image: url("https://ArtQuinones.github.io/comingout/Cover.gif");
 	background-position: center;
 	color: midnightblue;
 	position: relative;
